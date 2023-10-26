@@ -22,6 +22,7 @@ $base-radius: 0.5rem;
 $code-font-size: 0.85rem !default;
 
 /* fonts */
+@import 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap';
 
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif;
+$font-family-base: 'Noto Sans KR', sans-serif !default;
+$font-family-heading: 'Noto Sans KR', sans-serif !default;
